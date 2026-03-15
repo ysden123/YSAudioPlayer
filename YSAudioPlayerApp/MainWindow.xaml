@@ -10,6 +10,8 @@
         <Menu DockPanel.Dock="Top">
             <MenuItem Header="_File">
                 <MenuItem Header="_Open folder" Click="OpenFolderMenuItem_Click" ToolTip="Open folder with audio files"/>
+                <MenuItem Header="_Play track" Name="MenuItem_PlayTrack" Click="MenuItem_PlayTrack_Click" IsEnabled="False" ToolTip="Plays the selected track"/>
+                <MenuItem Header="_Stop track" Name="MenuItem_StopTrack" Click="MenuItem_StopTrack_Click" IsEnabled="False" ToolTip="Stops playing selected track"/>
                 <MenuItem Header="_Exit" Click="ExitMenuItem_Click" ToolTip="Close player"/>
             </MenuItem>
             <!--
@@ -18,7 +20,7 @@
             </MenuItem>
             -->
         </Menu>
-        <ListView x:Name="ListView_Tracks" Margin="5">
+        <ListView x:Name="ListView_Tracks" Margin="5" SelectionMode="Single" SelectionChanged="SelectedTrackChanged">
             <ListView.View>
                 <GridView>
                     <GridViewColumn Header="Title" DisplayMemberBinding="{Binding Title}" Width="200"/>

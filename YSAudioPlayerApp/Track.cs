@@ -5,8 +5,6 @@
         public string? Title { get; init; }
         public TimeSpan? Duration { get; init; }
 
-        public required string FileName { get; init; }
-
         public string? DurationToString
         {
             get
@@ -21,5 +19,9 @@
                 }
             }
         }
+
+        public required string FileName { get; init; }
+
+        public required string FilePath { get; init; }
     }
 }
