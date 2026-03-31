@@ -4,4 +4,5 @@
     <File Path="Библиотеки.docx" />
   </Folder>
   <Project Path="YSAudioPlayerApp/YSAudioPlayerApp.csproj" Id="2b9cc069-a010-4d06-ba41-5e01a953258a" />
+  <Project Path="YSAudioPlayerTest/YSAudioPlayerTest.csproj" Id="67856469-8a23-45cc-8dad-97c56e2e1c0d" />
 </Solution>

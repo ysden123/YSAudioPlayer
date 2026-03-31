@@ -1,0 +1,34 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.0 Safari/537.36" version="29.6.1">
+  <diagram name="Page-1" id="IQnL9vrZ5b6IZk-RdLjT">
+    <mxGraphModel dx="1426" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mChLWy79cdZwrp1Qu139-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="144" width="400" x="190" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mChLWy79cdZwrp1Qu139-3" parent="1" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" value="Play" vertex="1">
+          <mxGeometry height="33" width="86" x="220" y="174" as="geometry" />
+        </mxCell>
+        <mxCell id="mChLWy79cdZwrp1Qu139-4" parent="1" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" value="Pause" vertex="1">
+          <mxGeometry height="33" width="86" x="350" y="174" as="geometry" />
+        </mxCell>
+        <mxCell id="mChLWy79cdZwrp1Qu139-5" parent="1" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" value="Stop" vertex="1">
+          <mxGeometry height="33" width="86" x="470" y="174" as="geometry" />
+        </mxCell>
+        <mxCell id="mChLWy79cdZwrp1Qu139-6" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.progressScrubberDisabled;dx=0.3;fillColor=#33b5e5;strokeColor=none;strokeColor2=#444444;" value="" vertex="1">
+          <mxGeometry height="16" width="330" x="228" y="134" as="geometry" />
+        </mxCell>
+        <mxCell id="mChLWy79cdZwrp1Qu139-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="10:02" vertex="1">
+          <mxGeometry height="30" width="60" x="200" y="94" as="geometry" />
+        </mxCell>
+        <mxCell id="mChLWy79cdZwrp1Qu139-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1:20:02" vertex="1">
+          <mxGeometry height="30" width="60" x="500" y="94" as="geometry" />
+        </mxCell>
+        <mxCell id="mChLWy79cdZwrp1Qu139-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Audio player visualization&lt;br&gt;2026 03 16" vertex="1">
+          <mxGeometry height="30" width="160" x="334" y="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
